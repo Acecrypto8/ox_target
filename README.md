@@ -20,9 +20,7 @@ https://overextended.dev/ox_target
 
 ## 💾 Download
 
-Fork: https://github.com/Acecrypto8/ox_target
-
-Original: https://github.com/Acecrypto8/ox_target/releases/latest/download/ox_target.zip
+https://github.com/Acecrypto8/ox_target/releases/latest/download/ox_target.zip
 
 ## ✨ Features
 
